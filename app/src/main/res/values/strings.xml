@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">florien</string>
-    <string name="title_activity_welcome">IMANIZABAYO FLORIEN</string>
+    <string name="app_name">Pacifique</string>
+    <string name="title_activity_welcome">MUYIRINGIRE Pacifique</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">IMANIZABAYO FLORIEN</string>
-    <string name="nav_header_subtitle">imanizabayoflorien@gmail.com</string>
+    <string name="nav_header_title">MUYIRINGIRE Pacifique</string>
+    <string name="nav_header_subtitle">mupaccy2@gmail.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">My Profile</string>
     <string name="usernamehint">Enter Username</string>
